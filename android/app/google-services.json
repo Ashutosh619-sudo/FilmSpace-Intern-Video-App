@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943597987320",
+    "project_id": "intern-video-app",
+    "storage_bucket": "intern-video-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943597987320:android:5e1cfb9c7b7b5bebbfa20d",
+        "android_client_info": {
+          "package_name": "com.example.videoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943597987320-88pjvshi9hohi1re9uqo73m69vc6vl0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videoapp",
+            "certificate_hash": "d5603e1b2661d79f18190e3ab0b4b5872bdeb939"
+          }
+        },
+        {
+          "client_id": "943597987320-0cp1300ffn6lmc96l5u5mgqh8djgrhve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLLKstaBRge8Npluwexp1cApfyv4eWC-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943597987320-0cp1300ffn6lmc96l5u5mgqh8djgrhve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
